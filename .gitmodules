@@ -46,3 +46,6 @@
 [submodule "loarabia/Clang-tutorial"]
 	path = loarabia/Clang-tutorial
 	url = https://github.com/loarabia/Clang-tutorial/
+[submodule "samanbarghi/CPP2C"]
+	path = samanbarghi/CPP2C
+	url = https://github.com/samanbarghi/CPP2C
