@@ -2,7 +2,7 @@
 
 Examples of [clang](http://clang.llvm.org/) compiler [API](http://clang.llvm.org/docs/Tooling.html) usage.
 
-Official clang API documentation ([1](http://clang.llvm.org/docs/index.html), [2](http://clang.llvm.org/doxygen)) is a work in progress. Meanwhile unofficial learning resources are scattered all around the internet. The goal is to create a list of code examples so that full power of proper tools (grep, find, etc.) can be unleashed instead of using web search engines. All other resources are welcome as well.
+Official clang API documentation ([1](http://clang.llvm.org/docs/index.html), [2](http://clang.llvm.org/doxygen)) is a work in progress. Meanwhile unofficial learning resources are scattered all around the Internet. The goal is to create a list of code examples so that full power of proper tools (grep, find, etc.) can be unleashed instead of using web search engines. All other resources are welcome as well.
 
 # Looking forward to pull-requests!
 
@@ -16,7 +16,7 @@ Please add resources:
 In case of doubt or need of help please create an [issue](../../issues/new) and let's discuss it.
 
 ## git submodules
-[How to dealing with git submodules?](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+[How to deal with git submodules?](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
 * **clone** whole repository including submodules: `git clone --recursive`
 * **update** every submodule to the latest commit in remote repository: `git submodule update --recursive --remote`
