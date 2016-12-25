@@ -1,0 +1,45 @@
+[submodule "eliben/llvm-clang-samples"]
+	path = eliben/llvm-clang-samples
+	url = https://github.com/eliben/llvm-clang-samples.git
+[submodule "Andersbakken/rtags"]
+	path = Andersbakken/rtags
+	url = https://github.com/Andersbakken/rtags
+[submodule "rprichard/sourceweb"]
+	path = rprichard/sourceweb
+	url = https://github.com/rprichard/sourceweb.git
+[submodule "etaoins/qconnectlint"]
+	path = etaoins/qconnectlint
+	url = https://github.com/etaoins/qconnectlint.git
+[submodule "woboq/woboq_codebrowser"]
+	path = woboq/woboq_codebrowser
+	url = https://github.com/woboq/woboq_codebrowser.git
+[submodule "mozilla/dxr"]
+	path = mozilla/dxr
+	url = https://github.com/mozilla/dxr
+[submodule "eschulte/clang-mutate"]
+	path = eschulte/clang-mutate
+	url = https://github.com/eschulte/clang-mutate
+[submodule "gmarpons/Crisp"]
+	path = gmarpons/Crisp
+	url = https://github.com/gmarpons/Crisp
+[submodule "drothlis/clang-ctags"]
+	path = drothlis/clang-ctags
+	url = https://github.com/drothlis/clang-ctags
+[submodule "exclipy/clang_indexer"]
+	path = exclipy/clang_indexer
+	url = https://github.com/exclipy/clang_indexer
+[submodule "holtgrewe/linty"]
+	path = holtgrewe/linty
+	url = https://github.com/holtgrewe/linty
+[submodule "axw/cmonster"]
+	path = axw/cmonster
+	url = https://github.com/axw/cmonster
+[submodule "rizsotto/Constantine"]
+	path = rizsotto/Constantine
+	url = https://github.com/rizsotto/Constantine
+[submodule "jessevdk/cldoc"]
+	path = jessevdk/cldoc
+	url = https://github.com/jessevdk/cldoc
+[submodule "AlexDenisov/ToyClangPlugin"]
+	path = AlexDenisov/ToyClangPlugin
+	url = https://github.com/AlexDenisov/ToyClangPlugin
