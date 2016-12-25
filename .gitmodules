@@ -43,3 +43,6 @@
 [submodule "AlexDenisov/ToyClangPlugin"]
 	path = AlexDenisov/ToyClangPlugin
 	url = https://github.com/AlexDenisov/ToyClangPlugin
+[submodule "loarabia/Clang-tutorial"]
+	path = loarabia/Clang-tutorial
+	url = https://github.com/loarabia/Clang-tutorial/
