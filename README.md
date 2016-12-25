@@ -11,9 +11,9 @@ Current stage is **initial hoarding**. All **freely available** resources (no ma
 Please add resources:
 
 * **code examples in form of git repository** as **submodules** structured as `<creator>/<project>`.
-* **other** resources (including other lists of resources) as **links** to the sources section here in README.md below.
+* **other** resources (including other lists of resources) as **links** to the [Sources](#sources) section below.
 
-In case of doubt or need of help please create an [issue](issue/new) and let's discuss it.
+In case of doubt or need of help please create an [issue](../../issues/new) and let's discuss it.
 
 ## git submodules
 [How to dealing with git submodules?](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
