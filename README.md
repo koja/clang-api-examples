@@ -24,6 +24,8 @@ In case of doubt or need of help please create an [issue](../../issues/new) and 
 
 # Sources
 
-Please use one or more appropriate "tags" at the end of line. Currently used tags are: `(list) (code)`.
+Please use one or more appropriate "tags" at the end of line. Currently used tags are: `(article) (code) (list)`.
 
 * http://clang.llvm.org/docs/ExternalClangExamples.html (list)(code)
+* http://fdiv.net/2012/08/15/compiling-code-clang-api (article)
+* http://my-classes.com/2014/07/01/working-with-ast-matcher-without-clangtool-compilation-database/ (article)
