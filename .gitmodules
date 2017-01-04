@@ -49,3 +49,6 @@
 [submodule "samanbarghi/CPP2C"]
 	path = samanbarghi/CPP2C
 	url = https://github.com/samanbarghi/CPP2C
+[submodule "xaizek/for-postfix"]
+	path = xaizek/for-postfix
+	url = https://github.com/xaizek/for-postfix
