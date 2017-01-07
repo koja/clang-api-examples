@@ -29,3 +29,7 @@ Please use one or more appropriate "tags" at the end of line. Currently used tag
 * http://clang.llvm.org/docs/ExternalClangExamples.html (list)(code)
 * http://fdiv.net/2012/08/15/compiling-code-clang-api (article)
 * http://my-classes.com/2014/07/01/working-with-ast-matcher-without-clangtool-compilation-database/ (article)
+* https://jonasdevlieghere.com/understanding-the-clang-ast/ (article)
+* https://kevinaboos.wordpress.com/2013/07/23/clang-tutorial-part-i-introduction/ (article)
+* http://bastian.rieck.ru/blog/posts/2015/baby_steps_libclang_ast/ (article)
+* http://adamrehn.com/articles/ast-instrumentation-examples-by-language/ (article)
